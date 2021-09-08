@@ -1,0 +1,49 @@
+.text-primary {
+    color: #3C84B4 !important;
+} 
+
+.text-warning {
+    color: #F7A970 !important;
+}
+
+.text-extra-red {
+    color: #D04545;
+}
+
+.text-extra-success {
+    color: #2AA786;
+}
+
+.text-danger {
+    color: #F90000 !important;
+}
+
+.orders .MTableHeader-header-15 {
+    top: 0;
+    z-index: 10;
+    position: sticky;
+    background-color: #FFF3D0 !important;
+}
+
+
+.orders td:nth-child(3) {
+    color: #2AA786 !important;
+}
+
+
+.MuiOutlinedInput-root {
+    border-radius: 2px !important;
+}
+
+.product label {
+    color: #000000CC;
+}
+
+.product .form-control {
+    border: 2px solid #00000029 !important;
+    border-radius: 0.2em;
+}
+
+.product .form-group {
+    margin: 1.5em 0em !important;
+}

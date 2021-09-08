@@ -1,0 +1,61 @@
+.main_nav {
+    padding: 2vw 0vw;
+}
+
+
+.sidebar {
+    width: 14rem!important;
+}
+
+#content-wrapper {
+    background-color: #f8f9fc;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.nav {
+    float: right;
+}
+
+.cal-box {
+    border: 2px solid #ccc;
+    position: relative;  
+}
+
+.nav-logo {
+    height: 35px;
+    object-fit: contain;
+    margin-right: 0.5em;
+}
+
+p {
+    margin: 0px;
+    position: relative;
+    padding: 5px 8px;
+}
+
+.cal-active {
+    background-color: #2aa786;
+    color: #fff;
+}
+
+a {
+    color: #2aa786 !important;
+    cursor: pointer;
+}
+
+.form-control {
+    border-radius: 0px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+
+.form-control:focus {
+
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border: none;
+}
+
+.btn-success {
+    background-color: #2aa786;
+}
